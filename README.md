@@ -14,4 +14,7 @@ An example project exists, which uses this library. It is called GenesisApp: www
 
 * Challenge 1: replace the SQLlite repository (of the GenesisApp project, the other repository :)) with ad blockchain technology
 * Challenge 2: extend the Operation interfaces
+
+Check the other repository for detailed information on the challenges.
+
 ![alt text](https://github.com/FuturICT2/Genesis/blob/master/toolUml.png)
