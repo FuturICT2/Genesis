@@ -8,6 +8,8 @@ Java library to create Tokens with different Properties, Underlyings and Operati
 
 The project is written with the netbeans IDE.
 
+The library is motivated by the conceputal architecture found [ here ](https://arxiv.org/pdf/1811.03419.pdf)
+
 An example project exists, which uses this library. It is called GenesisApp: www.github.com/FuturICT2/GenesisApp. In case of questions, please contact: bmark@ethz.ch.
 
 ## Software Architecture (little bit outdated) for the BIOTS Challenge 2018 
