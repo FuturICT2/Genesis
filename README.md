@@ -10,7 +10,7 @@ The project is written with the netbeans IDE.
 
 An example project exists, which uses this library. It is called GenesisApp: www.github.com/FuturICT2/GenesisApp. In case of questions, please contact: bmark@ethz.ch.
 
-## Software Architecture (little bit outdated) for the Challenge
+## Software Architecture (little bit outdated) for the BIOTS Challenge 2018 
 
 * Challenge 1: replace the SQLlite repository (of the GenesisApp project, the other repository :)) with ad blockchain technology
 * Challenge 2: extend the Operation interfaces
