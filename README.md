@@ -1,3 +1,7 @@
+⚠️ *This repository is no longer active. Together with other strands of work it is further pursued here: [FIN4XPLORER](https://github.com/FuturICT2/FIN4XPLORER)*
+
+<hr>
+
 # Genesis Library
 
 Java library to create Tokens with different Properties, Underlyings and Operations.
